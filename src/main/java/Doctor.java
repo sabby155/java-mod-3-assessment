@@ -19,6 +19,7 @@ public class Doctor {
         System.out.println("Initialized Dr. " + this.name + " who treats " + this.specialty);
         System.out.println("Their healing power is: " + this.healingPower);
     }
+    public Doctor() {};
 
     void treatPatient(Patient patient) {
         //Take a patient and treat that patient

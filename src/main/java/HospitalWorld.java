@@ -10,8 +10,6 @@ public class HospitalWorld {
 
         // your code here
 
-        FileReader.writeToFile("patient.data", "Patients:");
-        FileReader.writeToFile("doctor.data", "Doctors:");
 
         System.out.println("Restored the following from patient.data: ");
         System.out.println(FileReader.readFromFile("patient.data", true));

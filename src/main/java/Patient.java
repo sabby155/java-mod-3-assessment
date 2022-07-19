@@ -16,6 +16,8 @@ public class Patient {
         System.out.println("Initialized Patient: " + this.name + " with health: " + this.healthIndex + " who needs " + this.myAilment.getName() + " care.");
     }
 
+    public Patient() {};
+
     public String getName() {
         return name;
     }

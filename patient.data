@@ -1,1 +1,1 @@
-Patients:
+[{"name":"Sabrina","myDoctor":{"name":"Harry","specialty":"General","patientCount":1}},{"name":"Kelly","myDoctor":{"name":"Edith","specialty":"Gastroenterology","patientCount":1}},{"name":"Mark","myDoctor":{"name":"Eugene","specialty":"Dermatology","patientCount":1}},{"name":"Jose","myDoctor":{"name":"Harry","specialty":"General","patientCount":1}}]

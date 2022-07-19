@@ -1,1 +1,1 @@
-Doctors:
+[{"name":"Harry","specialty":"General","patientCount":1},{"name":"Edith","specialty":"Gastroenterology","patientCount":1},{"name":"Eugene","specialty":"Dermatology","patientCount":1}]
